@@ -1,0 +1,1 @@
+import{d as a,f as s,a as c,h as t}from"./elementPlus-bnWr50qM.js";const p=a({__name:"index",setup(r){const o=e=>{console.log(e)};return(e,_)=>{const n=s("m-choose-area");return c(),t(n,{onChange:o})}}});export{p as default};

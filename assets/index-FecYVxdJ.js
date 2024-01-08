@@ -1,0 +1,1 @@
+import{d as t,f as c,a as s,h as a}from"./elementPlus-bnWr50qM.js";const m=t({__name:"index",setup(_){const o=e=>{console.log(e)};return(e,r)=>{const n=c("m-choose-city");return s(),a(n,{onChangeCity:o,onChangeProvince:o})}}});export{m as default};

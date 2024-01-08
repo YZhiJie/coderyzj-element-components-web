@@ -1,0 +1,1 @@
+import{d as n,r as a,f as i,a as l,b as r,q as c,v as _,K as m}from"./elementPlus-bnWr50qM.js";const f=n({__name:"index",setup(p){const e=a(!1);return(d,o)=>{const t=i("m-choose-icon");return l(),r("div",null,[c(t,{title:"选择图标",visible:e.value,"onUpdate:visible":o[0]||(o[0]=s=>e.value=s)},{default:_(()=>[m("选择图标")]),_:1},8,["visible"])])}}});export{f as default};
